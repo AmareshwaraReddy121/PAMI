@@ -62,9 +62,7 @@
 
 PAttern MIning (PAMI) is a Python library containing several algorithms to discover user interest-based patterns in a wide-spectrum of datasets across multiple computing platforms. Useful links to utilize the services of this library were provided below:
 
-NAME:
-Amareshwarareddy121
-madanapalle institurte
+NAME:Amareshwarareddy121
 1. Youtube tutorial https://www.youtube.com/playlist?list=PLKP768gjVJmDer6MajaLbwtfC9ULVuaCZ
 
 2. Tutorials (Notebooks) https://github.com/UdayLab/PAMI/tree/main/notebooks
